@@ -1,3 +1,11 @@
+-- This Program allows users to find a plane equation 
+-- using three points in cartesian cooridinates
+-- the points need to be in a list and represented as triples
+-- i.e. [(0,0,0),(3.2,5.6,19.9),(0,1,1.1)]
+-- in which in [a,b,c], a is the coordinate, b is the y coordinate
+-- and c is the z coordinate
+
+
 -- The three functions defined here ( firstTrip - thirdTrip)
 -- each take out they're corresponding part of a triple i.e.
 -- secondTrip (1,2,3) would return 2
